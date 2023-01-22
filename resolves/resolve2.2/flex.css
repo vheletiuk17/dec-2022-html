@@ -1,0 +1,55 @@
+.CenterBlock{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.MainBlock{
+    width: 400px;
+    height: 400px;
+    background: white;
+    border: 1px solid black ;
+}
+.UserBlock{
+    width: 400px;
+    height: 400px;
+    background: white;
+    border: 1px solid black ;
+}
+.WebBlock{
+    width: 400px;
+    height: 400px;
+    background: white;
+    border: 1px solid black ;
+}
+.title1{
+    display: flex;
+    justify-content: center;
+}
+.text1{
+   font-size: 25px;
+    margin-bottom: 150px;
+    flex: 1 1 auto;
+    color: silver;
+
+}
+.button1,.button2,.button3{
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-end;
+}
+.CenterBlock > .button1,.button2,.button3{
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-end;
+}
+.box2{
+    display: flex;
+    flex:1 1 auto;
+}
+.button > a{
+    border: 1px solid black;
+}
+a{
+    padding: 30px 40px 30px 40px;
+}

@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="579b6db3-cc98-4db6-bda9-91133b4de112" name="Changes" comment="add new html">
-      <change afterPath="$PROJECT_DIR$/Lessons/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolves/resolves2/flex.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolves/resolves2/index.html" afterDir="false" />
+    <list default="true" id="579b6db3-cc98-4db6-bda9-91133b4de112" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/resolves/resolve2.2/flex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resolves/resolve2.2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resolves/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolves/resolve1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resolves/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/resolves/resolve1/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +72,7 @@
       <workItem from="1674062427321" duration="5554000" />
       <workItem from="1674068056222" duration="5000" />
       <workItem from="1674068078266" duration="3000" />
-      <workItem from="1674150151065" duration="21411000" />
+      <workItem from="1674150151065" duration="26678000" />
     </task>
     <task id="LOCAL-00001" summary="add new html">
       <created>1674067296253</created>
@@ -84,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674067296253</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done">
+      <created>1674409299285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674409299285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new html" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new html" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
