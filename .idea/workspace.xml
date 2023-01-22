@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="579b6db3-cc98-4db6-bda9-91133b4de112" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/resolves/resolve2.2/flex.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolves/resolve2.2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolves/resolve2.2/flex.css" beforeDir="false" afterPath="$PROJECT_DIR$/resolves/resolve2.2/flex.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolves/resolves2/flex.css" beforeDir="false" afterPath="$PROJECT_DIR$/resolves/resolves2/flex.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <workItem from="1674062427321" duration="5554000" />
       <workItem from="1674068056222" duration="5000" />
       <workItem from="1674068078266" duration="3000" />
-      <workItem from="1674150151065" duration="26678000" />
+      <workItem from="1674150151065" duration="27276000" />
     </task>
     <task id="LOCAL-00001" summary="add new html">
       <created>1674067296253</created>
@@ -88,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674409299285</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="done">
+      <created>1674414466801</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674414466801</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
