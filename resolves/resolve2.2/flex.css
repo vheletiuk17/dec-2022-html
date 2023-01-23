@@ -32,3 +32,6 @@ display: flex;
     text-align: center;
     margin: 100px 10px 120px 10px;
 }
+a{
+    border: 1px solid black;
+}
