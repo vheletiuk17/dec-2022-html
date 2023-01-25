@@ -1,0 +1,9 @@
+.target{
+    width: 200px;
+    height: 200px;
+    background: black;
+    transition: 300ms;
+}
+.target:hover{
+    background: silver;
+}
